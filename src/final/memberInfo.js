@@ -1,11 +1,11 @@
 const memberInfo =
 [
-    {id:1, img:'/images/01.jpg',    name:'Walter White',    position:'Bryan Cranston',      phone:'+49 12345678',   email:'walter@b-bad.com',   website:'walterwhite.com'   },
-    {id:2, img:'/images/02.jpg',    name:'Jesse Pinkman',   position:'Aaron Paul',          phone:'+49 12345678',   email:'jesse@b-bad.com',    website:'jessepinkman.com'  },
-    {id:3, img:'/images/03.jpg',    name:'Skyler White',    position:'Anna Gunn',           phone:'+49 12345678',   email:'skyler@b-bad.com',   website:'skylerwhite.com'   },
-    {id:4, img:'/images/04.jpg',    name:'Gus Fring',       position:'Giancarlo Esposito',  phone:'+49 12345678',   email:'gus@b-bad.com'                                   },
-    {id:5, img:'/images/05.jpg',    name:'Saul Goodman',    position:'Bob Odenkirk',        phone:'+49 12345678',   email:'saul@b-bad.com'                                  },
-    {id:6, img:'/images/06.jpg',    name:'Hank Schrader',   position:'Dean Norris',         phone:'+49 12345678',   email:'hank@b-bad.com'                                  },
+    {id:1, img:'/images/arthur.jpeg',    name:'Arthur Morgan',    position:'main',      phone:'12345678',   email:'arthur@gmail.com',   website:'arthur.com'   },
+    {id:2, img:'/images/geralt.jpg',    name:'Geralt of Rivia',   position:'main',          phone:'12345678',   email:'geralt@gmail.com',    website:'geralt.com'  },
+    {id:3, img:'/images/michael.jpeg',    name:'michael desanta',    position:'main',           phone:'12345678',   email:'michael@gmail.com',   website:'michael.com'   },
+    {id:4, img:'/images/trevor.jpeg',    name:'Trevor Philips',       position:'main',  phone:'12345678',   email:'trevor@gmail.com' ,                                   },
+    {id:5, img:'/images/franklin.jpeg',    name:'Franklin Clinton',    position:'main',        phone:'12345678',   email:'franklin@gmail.com'                                  },
+    {id:6, img:'/images/viktor.png',    name:'Viktor Vektor',   position:'main',         phone:'12345678',   email:'viktor@gmail.com'                                  },
 ]
 
 export default memberInfo
